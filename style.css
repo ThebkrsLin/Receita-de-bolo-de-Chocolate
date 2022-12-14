@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
+body{
+    width: 3000px;
+    height: 2000px;
+    background-color: darkgray;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+main {
+    width: 1280px;
+    height: 1870px;
+    background-color: white;
+    margin: 10px;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 2em;
+    position: relative;
+    left: 50%;
+    top: 20px;
+}
+.nome {
+    position: relative;
+    left: 500px;
+}
+.ingredientes {
+    position: relative;
+    left: 500px;
+}
+
+.modpreparo {
+    position: relative;
+    left: 500px;
+}
+img {
+    position: relative;
+    right: 15px;
+    margin: 0;
+    width: 1200px;
+    height: 670px;
+    border-radius: 3em;
+}
+
+figcaption {
+    position: relative;
+    left: 1050px;
+}
+
+footer {
+    position: relative;
+    top: 100px;
+    left: 2000px;
+}
