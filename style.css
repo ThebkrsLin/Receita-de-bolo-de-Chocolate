@@ -14,7 +14,7 @@ main {
     box-sizing: border-box;
     border-radius: 2em;
     position: relative;
-    left: 50%;
+    left: 25%;
     top: 20px;
 }
 .nome {
@@ -47,5 +47,5 @@ figcaption {
 footer {
     position: relative;
     top: 100px;
-    left: 900px;
+    left: 600px;
 }
